@@ -1,12 +1,12 @@
 # Bizznessia Bug Tracking
 
-Welcome to the official bug tracking repository for [Bizznessia](https://bizznessia.dev)! This repository is dedicated to collecting and managing bug reports related to the Bizznessia platform to ensure smooth functionality and enhance the user experience.
+Welcome to the official bug tracking repository for [Bizznessia](https://bizznessia.netlify.app)! This repository is dedicated to collecting and managing bug reports related to the Bizznessia platform to ensure smooth functionality and enhance the user experience.
 
 ## About Bizznessia
 
 Bizznessia is a platform designed to help individuals and businesses achieve their goals by providing tools and resources to grow and succeed. As a community-driven project, your bug reports are essential for helping us improve the platform.
 
-Visit us at: [https://bizznessia.dev](https://bizznessia.dev)
+Visit us at: [https://bizznessia.dev](https://bizznessia.netlify.app)
 
 ## Reporting an Issue
 
@@ -21,11 +21,5 @@ If you encounter a bug or any issue on Bizznessia, please help us by reporting i
    - Information about your browser, operating system, and device.
 
 Your feedback helps us prioritize and fix issues more effectively!
-
-## License
-
-This repository is for issue reporting only. The Bizznessia platform is governed by the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 Thank you for helping us improve Bizznessia by reporting issues!
